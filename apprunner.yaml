@@ -4,6 +4,6 @@ build:
   commands:
     build:
       - pip install pipenv
-      - pipenv install 
+      - pipenv install flask
 run: 
   command: python Flask_Demo001.py
